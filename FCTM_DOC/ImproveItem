@@ -1,4 +1,4 @@
-Sync有問題，手機sqlite db 與 server上的db的同步機制需重新設計；
-Server用servlet，response 擷取字串(以`符號區隔欄位)，暫無問題，但可改JSON格式；
-程式架構有點混亂，手機內部資料儲存方式不一；
-英文語系破版
+1. 同步行程與紀錄有問題，手機sqlite db 與 server上的db的同步機制需重新設計；
+2. Server用servlet，response 擷取字串(以`符號區隔欄位)，暫無問題，但可改JSON格式；
+3. 程式架構有點混亂，手機內部資料儲存方式不一；
+4. 英文語系破版
