@@ -43,7 +43,7 @@ import java.net.URLEncoder;
 public class MainActivity extends FragmentActivity implements ActionBar.TabListener,
         LabAddDialogFrag.OnUiUpdate,MasAddDialogFrag.OnUiUpdateMas, IHttpCompleted
 {
-
+    //testGithub
     private static int URLMode=0;
     //public static String memberId = null;
     public static MemberInfo m = new MemberInfo();
